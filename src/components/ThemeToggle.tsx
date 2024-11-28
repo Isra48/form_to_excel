@@ -23,7 +23,7 @@ const ThemeToggle: React.FC = () => {
       onClick={toggleTheme}
       className="p-2 rounded bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-100"
     >
-      {theme === 'dark' ? 'Switch to Light Mode' : 'Switch to Dark Mode'}
+      {theme === 'dark' ? 'Light Mode' : 'Dark Mode'}
     </button>
   );
 };
