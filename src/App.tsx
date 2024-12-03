@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, useRoutes } from "react-router-dom"
+import { BrowserRouter,  useRoutes } from "react-router-dom"
 import Home from "./Pages/Home"
 import Tnks_page from "./Pages/Tnks_page"
 
